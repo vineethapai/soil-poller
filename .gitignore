@@ -1,0 +1,9 @@
+# Local environment with real credentials — never commit
+.env
+
+# Build output
+/bin/
+
+# Go workspace files
+go.work
+go.work.sum
